@@ -1,0 +1,4 @@
+#!/bin/bash
+
+echo "Running Git Pre Commit"
+composer php-cs-fixer
