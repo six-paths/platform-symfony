@@ -1,2 +1,4 @@
 parameters:
     checkGenericClassInNonGenericObjectType: false
+    doctrine:
+        repositoryClass: Sixpaths\Platform\Symfony\Repository\AbstractRepository
